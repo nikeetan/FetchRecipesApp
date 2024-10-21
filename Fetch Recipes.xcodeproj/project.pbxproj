@@ -30,9 +30,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EDC3C9372CB5AB1C007AB2FD /* Fetch Recipes */ = {
+		EDC3C9372CB5AB1C007AB2FD /* FetchRecipes */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Fetch Recipes";
+			path = FetchRecipes;
 			sourceTree = "<group>";
 		};
 		EDC3C9482CB5AB1D007AB2FD /* Fetch RecipesTests */ = {
@@ -75,7 +75,7 @@
 		EDC3C92C2CB5AB1C007AB2FD = {
 			isa = PBXGroup;
 			children = (
-				EDC3C9372CB5AB1C007AB2FD /* Fetch Recipes */,
+				EDC3C9372CB5AB1C007AB2FD /* FetchRecipes */,
 				EDC3C9482CB5AB1D007AB2FD /* Fetch RecipesTests */,
 				EDC3C9522CB5AB1D007AB2FD /* Fetch RecipesUITests */,
 				EDC3C9362CB5AB1C007AB2FD /* Products */,
@@ -108,7 +108,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EDC3C9372CB5AB1C007AB2FD /* Fetch Recipes */,
+				EDC3C9372CB5AB1C007AB2FD /* FetchRecipes */,
 			);
 			name = "Fetch Recipes";
 			packageProductDependencies = (
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EDC3C9302CB5AB1C007AB2FD /* Build configuration list for PBXProject "Fetch Recipes" */;
+			buildConfigurationList = EDC3C9302CB5AB1C007AB2FD /* Build configuration list for PBXProject "FetchRecipes" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -195,6 +195,8 @@
 			);
 			mainGroup = EDC3C92C2CB5AB1C007AB2FD;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = EDC3C9362CB5AB1C007AB2FD /* Products */;
 			projectDirPath = "";
@@ -515,7 +517,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EDC3C9302CB5AB1C007AB2FD /* Build configuration list for PBXProject "Fetch Recipes" */ = {
+		EDC3C9302CB5AB1C007AB2FD /* Build configuration list for PBXProject "FetchRecipes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EDC3C9572CB5AB1D007AB2FD /* Debug */,
