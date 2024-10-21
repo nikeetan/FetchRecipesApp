@@ -13,7 +13,14 @@ class RecipeViewModel: ObservableObject {
     @Published var isLoading = false
     @Published var errorMessage: String? = nil
     
-    private var recipeService = RecipeService()
+    // This creates the flexibility to invoke the recipeservice e
+    private var recipeService: RecipeService
+        
+        init(recipeService: RecipeService = RecipeService()) {
+            self.recipeService = recipeService
+        }
+        
+    //private var recipeService = RecipeService()
     
     // Fetch recipes from a URL
     func fetchRecipes(from url: String) {
