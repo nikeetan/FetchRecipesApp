@@ -1,4 +1,4 @@
-# Fetch Mobile Take Home Project ReadMe
+# Fetch Recipes ReadMe
 
 ## Steps to Run the App
 
