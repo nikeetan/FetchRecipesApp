@@ -39,3 +39,13 @@ Initially, I considered using Kingfisher, an open-source library for image cachi
 ## Additional Information
 This assignment was an excellent refresher for many core Swift concepts, and I thoroughly enjoyed the process of completing it. The focus on unit testing was particularly beneficial, as I included comprehensive tests for all functionalities. Overall, it was a constructive and enjoyable project, and I look forward to receiving feedback on my work.
 
+
+## Plan 
+![UI Building Plan](Results/Plan.png)
+
+
+## Result 
+![Final Results](Results/FinalUI.png)
+
+
+
